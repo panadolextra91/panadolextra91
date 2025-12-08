@@ -18,7 +18,7 @@ I'm a **Senior Computer Science student** who's absolutely hooked on bringing co
 <div align="center">
   <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=panadolextra91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="panadolextra91's GitHub stats" />
   
-  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api/top-langs/?username=panadolextra91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="panadolextra91's Top Languages" />
+  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api/top-langs/?username=panadolextra91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1&hide=jupyter%20notebook" alt="panadolextra91's Top Languages" />
 </div>
 
 ---
