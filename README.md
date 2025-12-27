@@ -9,7 +9,7 @@
 </div>
 
 ### ✨ About Me
-I'm a **Senior Computer Science student** who's absolutely hooked on bringing cool ideas to life through code. When I'm not diving deep into development, you'll probably find me unwinding with cat videos on YouTube (they're the best stress-relief! 🐱). I'm a big believer that **every small step today builds towards something awesome tomorrow**, and I love teaming up on **social-oriented projects** or any **crazy, innovative ideas** you might have. Let's build something epic!
+The only thing I hate is myself because I decided to study Computer Science!
 
 ---
 
