@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/9WBtYYSQoAwAAAAj/maxwell-spinning.gif" width="300"/>
+  <img src="https://media.tenor.com/9WBtYYSQoAwAAAAj/maxwell-spinning.gif" width="250"/>
   <h1>
     💊 Panadol Extra (Anh Thư) 💊
   </h1>
   <p><i>"I build software that works as hard as I do at 3 AM."</i></p>
   
-  <a href="https://www.linkedin.com/in/anhthuhuynh9103/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/avoidhooman/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:anhthuhuynh9103@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/anhthuhuynh9103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/avoidhooman/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:anhthuhuynh9103@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <p align="center">
@@ -45,11 +45,11 @@
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Java, TypeScript, **Go**, Swift, Kotlin |
-| **Backend** | NestJS, Spring Boot, **Node.js/Express**, Prisma, Redis |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Architecture** | **Modular Monolith**, **Clean Architecture**, SaaS Multi-tenant |
 | **Security** | **Refresh Token Rotation**, Reuse Detection, Atomic Transactions |
-| **Mobile** | React Native (EAS Build), Flutter |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
 ---
 
@@ -95,8 +95,14 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Analysis
 
+#### 📝 Bài học làm người (Top Languages)
+<div align="center">
+  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api/top-langs/?username=panadolextra91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+#### ⚡ Stats Overview
 <div align="center">
   <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=panadolextra91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="panadolextra91's GitHub stats" />
 </div>
