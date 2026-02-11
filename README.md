@@ -16,7 +16,7 @@
     <p align="center">
       Chào anh em! <br>
       Tui là Thư. Sở trường là đục người ta, hoặc đục vào logic của người ta (nếu nó ngu). <br>
-      Tính tui hiền khô hà, nhưng code tui thì không. Đang bận làm <b>Hội trưởng Hội Văn nghệ Đánh thức Lương tâm</b>, vui lòng không kiếm chuyện. <br>
+      <b>Hội trưởng Hội Văn nghệ Đánh thức Lương tâm</b>.<br>
     </p>
   </details>
 </p>
@@ -26,7 +26,7 @@
 ### ✨ About Me / Về Tui
 
 - 🎓 **Senior CS Student** @ International University (VNU-HCMC).
-- 🏥 **Mission:** Building high-performance Systems & SaaS Architecture.
+- 🏥 **Mission:** Building high-performance Systems & SaaS Architecture (**Modular Monolith** is my bae).
 - 🛠️ **Quality Standard:** If it’s not secure, it’s not finished. I prioritize Data Integrity above all.
 - 🐈 **Fact:** I love solving complex puzzles (and arguing with my Mac M4 Pro).
 
@@ -41,25 +41,14 @@
 
 ---
 
-### 📊 My GitHub Stats (Real Effort, Real Commits)
-
-<div align="center">
-  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=panadolextra91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="panadolextra91's GitHub stats" />
-</div>
-
-> **Note:** Consistency is key. 700+ contributions written with passion, tears, and a lot of caffeine. 🍵
-> 
-> **[VI]**: Github tui xanh tươi vì tui đục code thiệt, không "sống ẩn" bằng cách đổi tên file! 🤡
-
----
-
 ### 💻 Tech Stack (The Toolkit)
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Java, TypeScript, JavaScript, Swift, Kotlin |
-| **Backend** | NestJS, Spring Boot, Prisma ORM, Redis |
-| **Security** | **Refresh Token Rotation**, **Reuse Detection**, **Atomic Transactions** |
+| **Languages** | Java, TypeScript, **Go**, Swift, Kotlin |
+| **Backend** | NestJS, Spring Boot, **Node.js/Express**, Prisma, Redis |
+| **Architecture** | **Modular Monolith**, **Clean Architecture**, SaaS Multi-tenant |
+| **Security** | **Refresh Token Rotation**, Reuse Detection, Atomic Transactions |
 | **Mobile** | React Native (EAS Build), Flutter |
 
 ---
@@ -67,13 +56,35 @@
 ### 🚀 Key Projects / Dự án tiêu biểu
 
 <details>
+  <summary><strong>🎬 OPhim-CLI (Tôi yêu phâu lịm)</strong></summary>
+  
+  A high-performance Terminal-based movie browser.
+  - **Tech:** Golang, Bubble Tea (TUI), MPV integration.
+  - **Features:** Search, history tracking, and a "Cục dzàng" welcome screen.
+  
+  > **[VI]**: Rạp chiếu phim lậu ngay trong Terminal cho mấy khứa lười mở browser. Code bằng Go chạy nhanh như cách người yêu cũ trở mặt. 
+  > [👉 Link GitHub tại đây](https://github.com/panadolextra91/ophim-cli)
+</details>
+
+<details>
+  <summary><strong>🧘 Niet-Ban-OS (Quản lý chùa chiền)</strong></summary>
+  
+  A specialized SaaS for Temple Management & Online Spiritual Practice.
+  - **The "Zen" stuff:** Managing monk profiles, donation tracking, and online meditation schedules.
+  - **Scalability:** Multi-tenant architecture for multiple pagodas.
+  
+  > **[VI]**: Chuyển đổi số cho đồng môn. Quản lý tu tập Online, không lo nghiệp tụ vành môi vì logic đã được tối ưu và security bao phủ toàn diện. Niết Bàn không xa, chỉ cách một cú click!
+  > [👉 Link GitHub tại đây](https://github.com/panadolextra91/niet-ban-os)
+</details>
+
+<details>
   <summary><strong>💊 MediMaster (The Big One)</strong></summary>
   
-  A scalable Multi-tenant SaaS for independent pharmacies.
+  A scalable Multi-tenant SaaS for independent pharmacies (My Thesis).
   - **The "Hard" stuff:** Managing 30+ tables with strict concurrency control.
-  - **Security first:** Implemented Audit Logs and automated session revocation.
+  - **Security first:** Audit Logs and automated session revocation.
   
-  > **[VI]**: Đồ án tâm huyết cứu bách tính. Logic chặt chẽ tới mức mấy khứa lươn lẹo nhìn vào chắc tưởng đang đọc mật mã cấp quốc gia. **"Mẹ ơi, người ta sắp hack con rồi!"** - Đừng hòng, Token Rotation nó đá văng ra chuồng gà hết nha con!
+  > **[VI]**: Đồ án tâm huyết cứu bách tính. Cho tôi tốt nghiệp đi làm ơn đấy huhuhuhuhu :(
 </details>
 
 <details>
@@ -81,6 +92,16 @@
   
   Social forum for philosophy enthusiasts. [Check it out here](https://doxa.cafe)
 </details>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=panadolextra91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="panadolextra91's GitHub stats" />
+</div>
+
+> **[VI]**: Tôi nghèo, nên GitHub tôi xanh. Hãy thuê tôi! 🤡
 
 ---
 
