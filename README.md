@@ -78,6 +78,16 @@
 </details>
 
 <details>
+  <summary><strong>☸️ Karma-Monitor (Hộ Pháp Auditor)</strong></summary>
+  
+  Real-time GitHub event tracking & Secret Leak detection.
+  - **Tech:** Go, Docker, Discord Webhooks.
+  
+  > **[VI]**: Máy dò tìm "nghiệp lực" và "hề kịch câm". Ai hay leak secret thì cẩn thận, Hộ Pháp đang rình.
+  > [👉 Link GitHub tại đây](https://github.com/panadolextra91/karma-monitor)
+</details>
+
+<details>
   <summary><strong>💊 MediMaster (The Big One)</strong></summary>
   
   A scalable Multi-tenant SaaS for independent pharmacies (My Thesis).
