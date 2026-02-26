@@ -3,20 +3,20 @@
   <h1>
     💊 Panadol Extra (Anh Thư) 💊
   </h1>
-  <p><i>"I build software that works as hard as I do at 3 AM."</i></p>
+  <p><i>"I build software that works hard, plays hard, and occasionally has an existential crisis at 3 AM."</i></p>
   
   <a href="https://www.linkedin.com/in/anhthuhuynh9103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/panadolextra9103/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:anhthuhuynh9103@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <p align="center">
   <details>
-    <summary><b>💊 [VI] Nhấn vào đây nếu muốn nghe tui nói thật (Trigger Warning: Ba trợn ba trạo)</b></summary>
+    <summary><b>💊 [VI] Nhấn vào đây nếu muốn nghe tui nói thiệt (Engineering Mindset)</b></summary>
     <p align="center">
       Chào anh em! <br>
-      Tui là Thư. Sở trường là đục người ta, hoặc đục vào logic của người ta (nếu nó ngu). <br>
-      <b>Hội trưởng Hội Văn nghệ Đánh thức Lương tâm</b>.<br>
+      Tui là Thư. Sở trường của tui là <b>Audit logic</b> (truy vết đến cùng những bug khó nhằn) <br>
+      và thiết kế hệ thống sao cho nó "Clean" nhất có thể. <br>
+      <b>Châm ngôn:</b> Code không chỉ để chạy, code là để duy trì sự sống cho hệ thống. <br>
     </p>
   </details>
 </p>
@@ -26,18 +26,17 @@
 ### ✨ About Me / Về Tui
 
 - 🎓 **Senior CS Student** @ International University (VNU-HCMC).
-- 🏥 **Mission:** Building high-performance Systems & SaaS Architecture (**Modular Monolith** is my bae).
-- 🛠️ **Quality Standard:** If it’s not secure, it’s not finished. I prioritize Data Integrity above all.
-- 🐈 **Fact:** I love solving complex puzzles (and arguing with my Mac M4 Pro).
+- 🏥 **Mission:** Architecting resilient **Modular Monoliths** & Multi-tenant SaaS.
+- 🛠️ **Quality Standard:** Data Integrity is non-negotiable. If it's not secure, it's a liability.
+- 🐈 **Fact:** Deep-diver into Distributed Systems and Chaos Engineering.
 
-> **[VI]**: Tui là CEO của **Tập đoàn Công nghệ TBNT**: 
-> - **Tôi Bị Ngu Technology**: Tôi đã ngu (để học hết đống này), nên hệ thống của bạn sẽ KHÔNG NGU. 
-> - **Thương Bệnh Nhân Technology**: Chuyên chẩn đoán và chữa trị các chứng nan y về logic nghiệp vụ và bảo mật. 
-> - **Tao Bự Nhất Technology**: Ước mơ vươn lên thành tập đoàn thuỷ quân lục túi mạnh nhất Việt Nam.
+> **[VI]**: Sáng lập **TBNT Labs** (Technical - Bold - Notable - Trustworthy): 
+> - **Thorough Backend & Network Topology**: Chẩn đoán và xử lý các ca "nan y" về logic nghiệp vụ. 
+> - **Transparent & Benchmark-Driven Technology**: Hệ thống nói chuyện bằng con số, không nói chuyện bằng niềm tin. 
+> - **The Big-picture Network Thinker**: Ước mơ vươn tầm Architect, thiết kế những hệ thống "bất tử".
 > 
-> 🛡️ **Tôn chỉ:** Bảo hành hệ thống đến khi bốc mộ (mộ tui hoặc bạn, tuỳ trường hợp). 
-> 🎯 **Sứ mệnh:** Khách hàng là thượng đế. Ai làm bạn sang chấn, hãy thuê tôi, tôi sẽ sang cát nó!
-> 💸 **Fact+1:** Tôi nghèo (nên hãy thuê tôi)!
+> - 🛡️ **Tôn chỉ:** Hệ thống của bạn là uy tín của tôi. Bảo hành đến khi "vô cực".
+> - 🎯 **Sứ mệnh:** Chuyển hóa những bài toán kinh doanh phức tạp thành những dòng code tinh gọn.
 
 ---
 
@@ -53,54 +52,47 @@
 
 ---
 
-### 🚀 Key Projects / Dự án tiêu biểu
+### 🚀 Featured Systems / Dự án tiêu biểu
 
 <details>
-  <summary><strong>🎬 OPhim-CLI (Tôi yêu phâu lịm)</strong></summary>
+  <summary><strong>⚡ Toi-Iu-Redis (Performance Proof)</strong></summary>
   
-  A high-performance Terminal-based movie browser.
-  - **Tech:** Golang, Bubble Tea (TUI), MPV integration.
-  - **Features:** Search, history tracking, and a "Cục dzàng" welcome screen.
-  
-  > **[VI]**: Rạp chiếu phim lậu ngay trong Terminal cho mấy khứa lười mở browser. Code bằng Go chạy nhanh như cách người yêu cũ trở mặt. 
-  > [👉 Link GitHub tại đây](https://github.com/panadolextra91/ophim-cli)
+  Demonstrating how to solve the **Thundering Herd** problem using **Singleflight** in Go.
+  - **Results:** 200x fewer DB hits, 20x faster P99 latency.
+  > [👉 Xem Benchmark tại đây](https://github.com/panadolextra91/toi-iu-redis)
 </details>
 
 <details>
-  <summary><strong>🧘 Niet-Ban-OS (Quản lý chùa chiền)</strong></summary>
+  <summary><strong>🧘 Niet-Ban-OS (Multi-tenant SaaS)</strong></summary>
   
-  A specialized SaaS for Temple Management & Online Spiritual Practice.
-  - **The "Zen" stuff:** Managing monk profiles, donation tracking, and online meditation schedules.
-  - **Scalability:** Multi-tenant architecture for multiple pagodas.
-  
-  > **[VI]**: Chuyển đổi số cho đồng môn. Quản lý tu tập Online, không lo nghiệp tụ vành môi vì logic đã được tối ưu và security bao phủ toàn diện. Niết Bàn không xa, chỉ cách một cú click!
-  > [👉 Link GitHub tại đây](https://github.com/panadolextra91/niet-ban-os)
+  A specialized SaaS for Temple Management with **Real-time Karma Tracking**.
+  - **Tech:** NestJS, Redis (Redlock), PostgreSQL, Socket.io.
+  - **Architecture:** Modular Monolith with strict tenant isolation.
+  > [👉 Link GitHub](https://github.com/panadolextra91/niet-ban-os)
 </details>
 
 <details>
-  <summary><strong>☸️ Karma-Monitor (Hộ Pháp Auditor)</strong></summary>
+  <summary><strong>🛠️ Lam-Phien-Proxy (Chaos Engineering Tool)</strong></summary>
   
-  Real-time GitHub event tracking & Secret Leak detection.
-  - **Tech:** Go, Docker, Discord Webhooks.
-  
-  > **[VI]**: Máy dò tìm "nghiệp lực" và "hề kịch câm". Ai hay leak secret thì cẩn thận, Hộ Pháp đang rình.
-  > [👉 Link GitHub tại đây](https://github.com/panadolextra91/karma-monitor)
+  A Go-based proxy designed to inject failures (delay, drop, duplicate) for system resilience testing.
+  - **Keywords:** Network resilience, Traffic manipulation, Go Concurrency.
+  > [👉 Link GitHub](https://github.com/panadolextra91/lam-phien-proxy)
 </details>
 
 <details>
-  <summary><strong>💊 MediMaster (The Big One)</strong></summary>
+  <summary><strong>💊 MediMaster (Architectural Showcase)</strong></summary>
   
-  A scalable Multi-tenant SaaS for independent pharmacies (My Thesis).
-  - **The "Hard" stuff:** Managing 30+ tables with strict concurrency control.
-  - **Security first:** Audit Logs and automated session revocation.
-  
-  > **[VI]**: Đồ án tâm huyết cứu bách tính. Cho tôi tốt nghiệp đi làm ơn đấy huhuhuhuhu :(
+  **[Private Repo - Architecture Showcase Available upon Request]**
+  My Thesis project: A scalable Multi-tenant SaaS for Pharmacies.
+  - **Highlights:** RLS (Row Level Security), Atomic Stock Deduction, 4000+ req/s (Redis Cached).
 </details>
 
 <details>
-  <summary><strong>☕ Doxa.cafe</strong></summary>
+  <summary><strong>🎨 AR Hand Drawing (ML Integration)</strong></summary>
   
-  Social forum for philosophy enthusiasts. [Check it out here](https://doxa.cafe)
+  Web-based AR drawing using **MediaPipe** and a custom-trained **TensorFlow.js** model.
+  - **Focus:** Gesture recognition & Trajectory smoothing logic.
+  > [👉 Thử vẽ tại đây](https://github.com/panadolextra91/AR-drawing)
 </details>
 
 ---
@@ -121,9 +113,13 @@
 
 ---
 
+---
+
 ### 🎓 Extra Power
-- **English:** C1 (IELTS 7.5). I can debug your code and your grammar simultaneously.
-- **Philosophy:** I don't just write code; I think about the *existential dread* of the code.
+- **English Proficiency:** IELTS 7.5 (C1). Ready for global collaboration.
+- **Philosophical Mindset:** I don't just solve syntax errors; I solve architectural "existential" crises.
+
+> **[VI]**: Tôi không bán thời gian, tôi bán giải pháp ổn định. **Open for Impactful Opportunities.** 🚀
 
 ---
 <div align="center">
