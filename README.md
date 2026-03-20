@@ -3,7 +3,9 @@
   <h1>
     💊 Panadol Extra (Anh Thư) 💊
   </h1>
-  <p><i>"I build software that works hard, plays hard, and occasionally has an existential crisis at 3 AM."</i></p>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+software+that+works+hard...;...plays+hard+and+occasionally+has+a+crisis;Audit+logic+is+my+superpower.;Clean+Architecture+is+my+religion." alt="Typing SVG" />
+</div>
   
   <a href="https://www.linkedin.com/in/anhthuhuynh9103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:anhthuhuynh9103@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -97,26 +99,23 @@
 
 ---
 
-### 📊 GitHub Analysis
-
-#### 📝 Bài học làm người (Top Languages)
-<div align="center">
-  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api/top-langs/?username=panadolextra91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-#### ⚡ Stats Overview
-<div align="center">
-  <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=panadolextra91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="panadolextra91's GitHub stats" />
-</div>
-
-> **[VI]**: Tôi nghèo, nên GitHub tôi xanh. Hãy thuê tôi! 🤡
-
----
-
-### 🤡 Joking (but not really)
+### 📊 GitHub Dashboard (The Audit Log)
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-pied-eight-78.vercel.app/api/top-langs/?username=panadolextra91&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-pied-eight-78.vercel.app/api?username=panadolextra91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://trophy.ryglcloud.net/?username=panadolextra91&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="panadolextra91's trophies" />
+  <br/>
+  <p align="right"><i>"Tôi nghèo, nên GitHub tôi xanh. Hãy thuê tôi! 🤡"</i></p>
 </div>
 
 ---
@@ -127,7 +126,10 @@
 
 > **[VI]**: Tôi không bán thời gian, tôi bán giải pháp ổn định. **Open for Impactful Opportunities.** 🚀
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%"/>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=panadolextra91&color=blueviolet" alt="Views" />
 </div>
