@@ -120,6 +120,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/panadolextra91/panadolextra91/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🎓 Extra Power
 - **English Proficiency:** IELTS 7.5 (C1). Ready for global collaboration.
 - **Philosophical Mindset:** I don't just solve syntax errors; I solve architectural "existential" crises.
