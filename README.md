@@ -113,6 +113,12 @@
 
 ---
 
+### 🤡 Joking (but not really)
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=panadolextra91&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="panadolextra91's trophies" />
+</div>
+
 ---
 
 ### 🎓 Extra Power
