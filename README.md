@@ -10,19 +10,6 @@
   <a href="https://www.linkedin.com/in/anhthuhuynh9103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:anhthuhuynh9103@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
-
-<p align="center">
-  <details>
-    <summary><b>💊 [VI] Nhấn vào đây nếu muốn nghe tui nói thiệt (Engineering Mindset)</b></summary>
-    <p align="center">
-      Chào anh em! <br>
-      Tui là Thư. Sở trường của tui là <b>Audit logic</b> (truy vết đến cùng những bug khó nhằn) <br>
-      và thiết kế hệ thống sao cho nó "Clean" nhất có thể. <br>
-      <b>Châm ngôn:</b> Code không chỉ để chạy, code là để duy trì sự sống cho hệ thống. <br>
-    </p>
-  </details>
-</p>
-
 ---
 
 ### ✨ About Me / Về Tui
