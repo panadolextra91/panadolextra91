@@ -17,15 +17,6 @@
 - 🏥 **Mission:** Architecting resilient **Modular Monoliths** & Multi-tenant SaaS.
 - 🛠️ **Quality Standard:** Data Integrity is non-negotiable. If it's not secure, it's a liability.
 - 🐈 **Fact:** Deep-diver into Distributed Systems and Chaos Engineering.
-
-> **[VI]**: Sáng lập **TBNT Labs** (Technical - Bold - Notable - Trustworthy): 
-> - **Thorough Backend & Network Topology**: Chẩn đoán và xử lý các ca "nan y" về logic nghiệp vụ. 
-> - **Transparent & Benchmark-Driven Technology**: Hệ thống nói chuyện bằng con số, không nói chuyện bằng niềm tin. 
-> - **The Big-picture Network Thinker**: Ước mơ vươn tầm Architect, thiết kế những hệ thống "bất tử".
-> 
-> - 🛡️ **Tôn chỉ:** Hệ thống của bạn là uy tín của tôi. Bảo hành đến khi "vô cực".
-> - 🎯 **Sứ mệnh:** Chuyển hóa những bài toán kinh doanh phức tạp thành những dòng code tinh gọn.
-
 ---
 
 ### 💻 Tech Stack (The Toolkit)
@@ -106,17 +97,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/panadolextra91/panadolextra91/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 🎓 Extra Power
 - **English Proficiency:** IELTS 7.5 (C1). Ready for global collaboration.
 - **Philosophical Mindset:** I don't just solve syntax errors; I solve architectural "existential" crises.
-
-> **[VI]**: Tôi không bán thời gian, tôi bán giải pháp ổn định. **Open for Impactful Opportunities.** 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%"/>
