@@ -4,7 +4,7 @@
     💊 Panadol Extra (Anh Thư) 💊
   </h1>
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+software+that+works+hard...;...plays+hard+and+occasionally+has+a+crisis;Audit+logic+is+my+superpower.;Clean+Architecture+is+my+religion." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+software+that+works+hard...;...plays+hard+and+occasionally+has+a+crisis." alt="Typing SVG" />
 </div>
   
   <a href="https://www.linkedin.com/in/anhthuhuynh9103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,7 +14,6 @@
 ### ✨ About Me / Về Tui
 
 - 🎓 **Senior CS Student** @ International University (VNU-HCMC).
-- 🏥 **Mission:** Architecting resilient **Modular Monoliths** & Multi-tenant SaaS.
 - 🛠️ **Quality Standard:** Data Integrity is non-negotiable. If it's not secure, it's a liability.
 - 🐈 **Fact:** Deep-diver into Distributed Systems and Chaos Engineering.
 ---
