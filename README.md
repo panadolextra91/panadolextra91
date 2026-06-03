@@ -73,6 +73,19 @@
   > [👉 Thử vẽ tại đây](https://github.com/panadolextra91/AR-drawing)
 </details>
 
+<details>
+  <summary><strong>🦀 rust-to-you (Repository Archaeology)</strong></summary>
+  
+  An open-source Rust TUI that investigates GitHub repositories and transforms engineering signals into a narrative investigation report.
+  
+  - **Highlights:** Git history analysis, contributor concentration, infrastructure footprint detection, branch archaeology, and repository personality classification.
+  - **Developer Experience:** Ancient Relics 🏺, Solo Wizard 🧙, Startup Goblin 🧌, Haunted 👻, and Ferris Verdicts instead of traditional dashboards.
+  - **Built With:** Rust, Ratatui, Git, GitHub APIs.
+  - **Distribution:** GitHub Releases + Homebrew.
+  
+  > [👉 Let Ferris investigate your repository](https://github.com/panadolextra91/rust-to-you)
+</details>
+
 ---
 
 ### 📊 GitHub Dashboard (The Audit Log)
