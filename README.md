@@ -44,13 +44,20 @@
 </details>
 
 <details>
-  <summary><strong>🧘 Niet-Ban-OS (Multi-tenant SaaS)</strong></summary>
-  
-  A specialized SaaS for Temple Management with **Real-time Karma Tracking**.
-  - **Tech:** NestJS, Redis (Redlock), PostgreSQL, Socket.io.
-  - **Architecture:** Modular Monolith with strict tenant isolation.
-  > [👉 Link GitHub](https://github.com/panadolextra91/niet-ban-os)
+  <summary><strong>📜 Mini-stry (Policy Runtime Platform)</strong></summary>
+
+A domain-neutral engine that transforms structured JSON policies into deterministic decisions.
+
+* **Core Formula:** `Policy + EvaluationContext → Decision`
+* **Highlights:** Policy Lifecycle, Approval Routing, Governance Ledger, Multi-tenant Architecture.
+* **Architecture:** Modular Monolith, Hexagonal Architecture, Event-Driven Design.
+* **Built With:** TypeScript, Convex, React, Monaco, Ajv.
+* **Focus:** Deterministic workflows, auditability, immutable versioning, and explicit system boundaries.
+
+> [👉 Explore the engine](https://github.com/panadolextra91/mini-stry)
+
 </details>
+
 
 <details>
   <summary><strong>🛠️ Lam-Phien-Proxy (Chaos Engineering Tool)</strong></summary>
