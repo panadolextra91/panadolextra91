@@ -76,14 +76,6 @@ A domain-neutral engine that transforms structured JSON policies into determinis
 </details>
 
 <details>
-  <summary><strong>🎨 AR Hand Drawing (ML Integration)</strong></summary>
-  
-  Web-based AR drawing using **MediaPipe** and a custom-trained **TensorFlow.js** model.
-  - **Focus:** Gesture recognition & Trajectory smoothing logic.
-  > [👉 Thử vẽ tại đây](https://github.com/panadolextra91/AR-drawing)
-</details>
-
-<details>
   <summary><strong>🦀 rust-to-you (Repository Archaeology)</strong></summary>
   
   An open-source Rust TUI that investigates GitHub repositories and transforms engineering signals into a narrative investigation report.
