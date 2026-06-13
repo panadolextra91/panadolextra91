@@ -104,7 +104,6 @@ A domain-neutral engine that transforms structured JSON policies into determinis
     </tr>
   </table>
   <br/>
-  <img src="https://trophy.ryglcloud.net/?username=panadolextra91&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="panadolextra91's trophies" />
   <br/>
   <p align="right"><i>"Tôi nghèo, nên GitHub tôi xanh. Hãy thuê tôi! 🤡"</i></p>
 </div>
@@ -114,11 +113,3 @@ A domain-neutral engine that transforms structured JSON policies into determinis
 ### 🎓 Extra Power
 - **English Proficiency:** IELTS 7.5 (C1). Ready for global collaboration.
 - **Philosophical Mindset:** I don't just solve syntax errors; I solve architectural "existential" crises.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" width="100%"/>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=panadolextra91&color=blueviolet" alt="Views" />
-</div>
