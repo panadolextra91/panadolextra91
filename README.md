@@ -36,57 +36,70 @@
 ### 🚀 Featured Systems / Dự án tiêu biểu
 
 <details>
-  <summary><strong>⚡ Toi-Iu-Redis (Performance Proof)</strong></summary>
-  
-  Demonstrating how to solve the **Thundering Herd** problem using **Singleflight** in Go.
-  - **Results:** 200x fewer DB hits, 20x faster P99 latency.
-  > [👉 Xem Benchmark tại đây](https://github.com/panadolextra91/toi-iu-redis)
+  <summary><strong>⚡ Toi-Iu-Redis (Performance Engineering)</strong></summary>
+
+A Go playground demonstrating cache resilience patterns and the mitigation of the Thundering Herd problem using Singleflight.
+
+* **Highlights:** Cache-Aside, Singleflight, Concurrent Load Testing
+* **Built With:** Go, Redis
+* **Results:** 200x fewer DB hits, 20x faster P99 latency
+
+> [👉 Benchmark & Source](https://github.com/panadolextra91/toi-iu-redis)
+
 </details>
 
 <details>
   <summary><strong>📜 Mini-stry (Policy Runtime Platform)</strong></summary>
 
-A domain-neutral engine that transforms structured JSON policies into deterministic decisions.
+A domain-neutral platform that transforms structured policies into deterministic decisions.
 
-* **Core Formula:** `Policy + EvaluationContext → Decision`
-* **Highlights:** Policy Lifecycle, Approval Routing, Governance Ledger, Multi-tenant Architecture.
-* **Architecture:** Modular Monolith, Hexagonal Architecture, Event-Driven Design.
-* **Built With:** TypeScript, Convex, React, Monaco, Ajv.
-* **Focus:** Deterministic workflows, auditability, immutable versioning, and explicit system boundaries.
+* **Highlights:** Policy Lifecycle, Approval Routing, Governance Ledger, Multi-Tenant Architecture
+* **Built With:** TypeScript, Convex, React, Monaco, Ajv
+* **Focus:** Auditability, Explicit Boundaries, Immutable Versioning
 
-> [👉 Explore the engine](https://github.com/panadolextra91/mini-stry)
+> [👉 Explore the Engine](https://github.com/panadolextra91/mini-stry)
 
 </details>
-
 
 <details>
   <summary><strong>🛠️ Lam-Phien-Proxy (Chaos Engineering Tool)</strong></summary>
-  
-  A Go-based proxy designed to inject failures (delay, drop, duplicate) for system resilience testing.
-  - **Keywords:** Network resilience, Traffic manipulation, Go Concurrency.
-  > [👉 Link GitHub](https://github.com/panadolextra91/lam-phien-proxy)
+
+A fault-injection proxy for validating system resilience under adverse network conditions.
+
+* **Highlights:** Delay Injection, Packet Drop, Traffic Duplication
+* **Built With:** Go
+* **Focus:** Reliability Testing, Distributed Systems Resilience
+
+> [👉 Source Code](https://github.com/panadolextra91/lam-phien-proxy)
+
 </details>
 
 <details>
-  <summary><strong>💊 MediMaster (Architectural Showcase)</strong></summary>
-  
-  **[Private Repo - Architecture Showcase Available upon Request]**
-  My Thesis project: A scalable Multi-tenant SaaS for Pharmacies.
-  - **Highlights:** RLS (Row Level Security), Atomic Stock Deduction, 4000+ req/s (Redis Cached).
+  <summary><strong>💊 MediMaster (Multi-Tenant SaaS)</strong></summary>
+
+A pharmacy management platform designed as a scalable multi-tenant SaaS system.
+
+* **Highlights:** Row-Level Security, Atomic Stock Deduction, Redis Cache-Aside
+* **Built With:** Node.js, PostgreSQL, Prisma, Redis, React
+* **Results:** 4000+ req/s under cached workloads
+
+> [👉 Repository](https://github.com/panadolextra91/pharmacy-management-ecosystem)
+
 </details>
 
 <details>
   <summary><strong>🦀 rust-to-you (Repository Archaeology)</strong></summary>
-  
-  An open-source Rust TUI that investigates GitHub repositories and transforms engineering signals into a narrative investigation report.
-  
-  - **Highlights:** Git history analysis, contributor concentration, infrastructure footprint detection, branch archaeology, and repository personality classification.
-  - **Developer Experience:** Ancient Relics 🏺, Solo Wizard 🧙, Startup Goblin 🧌, Haunted 👻, and Ferris Verdicts instead of traditional dashboards.
-  - **Built With:** Rust, Ratatui, Git, GitHub APIs.
-  - **Distribution:** GitHub Releases + Homebrew.
-  
-  > [👉 Let Ferris investigate your repository](https://github.com/panadolextra91/rust-to-you)
+
+A Rust TUI that investigates repositories and transforms engineering signals into narrative reports.
+
+* **Highlights:** Git History Analysis, Infrastructure Detection, Contributor Analysis
+* **Built With:** Rust, Ratatui, Git, GitHub APIs
+* **Focus:** Engineering Forensics, Repository Storytelling
+
+> [👉 Let Ferris Investigate](https://github.com/panadolextra91/rust-to-you)
+
 </details>
+
 
 ---
 
